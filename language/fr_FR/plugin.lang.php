@@ -88,7 +88,7 @@ $lang['ZOOM_OUT'] = 'Zoom arrière';
 $lang['METERS_FROM_POINT'] = 'Vous êtes à %s mètres de ce point';
 $lang['MOUSE_OVER'] = 'Passez la souris sur un groupe pour voir les limites de ses enfants, puis cliquez sur un groupe pour zoomer sur les limites';
 $lang['M_MAP'] = 'Menu principal';
-$lang['OSM_CONTRIBUTORS'] = '<a href="http://www.openstreetmap.org" target="_blank">OpenStreetMap</a> contributeurs, (<a href="http://www.openstreetmap.org/copyright" target="_blank">ODbL</a>)';
+$lang['OSM_CONTRIBUTORS'] = '<a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a> contributeurs, (<a href="https://www.openstreetmap.org/copyright" target="_blank">ODbL</a>)';
 $lang['OSWORLDMAP'] = 'Carte mondiale OS';
 $lang['PIWIGO_GALLERY'] = 'Allez à l\'album Piwigo';
 $lang['SEARCH_MY_POSITION'] = 'Chercher ma position sur la carte';
