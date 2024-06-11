@@ -157,7 +157,7 @@ $lang['SUBURB'] = 'Faubourg';
 $lang['USE_AS_TAG'] = 'Utiliser comme étiquette';
 $lang['USE_AS_TAG_HELP'] = 'Créer une étiquette en utilisant une ou plusieurs valeurs de la partie adresse';
 $lang['DISPLAY_GPX_FILE'] = 'Sélectionnez un fichier GPX à afficher sur toutes les cartes de description des catégorie';
-
+$lang['Check out <a href="https://leaflet-extras.github.io/leaflet-providers/preview/" target="_blank">this example</a> with half a hundred different layers to choose from.'] = 'Découvrez <a href="https://leaflet-extras.github.io/leaflet-providers/preview/" target="_blank">cet exemple</a> avec une demi-centaine de calques différents parmi lesquels choisir.';
 $lang['This plugin display geographical location in your gallery using <a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a>.'] = 'Ce plugin affiche la localisation géographique dans votre galerie en utilisant <a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a>.';
 $lang['Refer to the <a href="https://github.com/xbgmsharp/piwigo-openstreetmap/wiki" target="_blanck">plugin documentation</a> for additional information. Create an <a href="https://github.com/xbgmsharp/piwigo-openstreetmap/issues" target="_blanck">issue</a> for support, or feedback, or feature request.'] = 'Reportez-vous à la <a href="https://github.com/xbgmsharp/piwigo-openstreetmap/wiki" target="_blanck">documentation du plug-in</a> pour plus d\'informations. Créez un <a href="https://github.com/xbgmsharp/piwigo-openstreetmap/issues" target="_blanck">problème</a> pour obtenir de l\'aide, des commentaires ou une demande de fonctionnalité.';
 $lang['%d geotagged items in your gallery'] = '%d éléments géolocalisés dans votre galerie';
